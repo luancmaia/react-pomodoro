@@ -1,0 +1,21 @@
+span.counter {
+	font-size: 60px;
+	margin-top: 300px;
+	display: block;
+	text-align: center;
+}
+
+.actions span.action-btn {
+	cursor: pointer;
+	padding: 10px 40px;
+	background: #FFF;
+	color: #e13535;
+	text-transform: uppercase;
+	font-weight: bold;
+	margin: 0 5px;
+}
+
+.actions {
+	display: table;
+	margin: 50px auto;
+}
